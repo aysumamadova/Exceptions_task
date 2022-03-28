@@ -1,0 +1,14 @@
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\bin\Debug\netcoreapp3.1\IAccount_task.exe
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\bin\Debug\netcoreapp3.1\IAccount_task.deps.json
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\bin\Debug\netcoreapp3.1\IAccount_task.runtimeconfig.json
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\bin\Debug\netcoreapp3.1\IAccount_task.runtimeconfig.dev.json
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\bin\Debug\netcoreapp3.1\IAccount_task.dll
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\bin\Debug\netcoreapp3.1\IAccount_task.pdb
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\obj\Debug\netcoreapp3.1\IAccount_task.csproj.AssemblyReference.cache
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\obj\Debug\netcoreapp3.1\IAccount_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\obj\Debug\netcoreapp3.1\IAccount_task.AssemblyInfoInputs.cache
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\obj\Debug\netcoreapp3.1\IAccount_task.AssemblyInfo.cs
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\obj\Debug\netcoreapp3.1\IAccount_task.csproj.CoreCompileInputs.cache
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\obj\Debug\netcoreapp3.1\IAccount_task.dll
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\obj\Debug\netcoreapp3.1\IAccount_task.pdb
+C:\Users\AysuMemmedova\source\repos\IAccount_task\IAccount_task\obj\Debug\netcoreapp3.1\IAccount_task.genruntimeconfig.cache
