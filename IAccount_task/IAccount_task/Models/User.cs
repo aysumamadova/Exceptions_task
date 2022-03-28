@@ -9,7 +9,7 @@ namespace IAccount_task.Models
 
     class User 
     {
-        private int _Id;
+        private static int _Id;
         private string _Fullname;
         private string _Email;
         private string _Password;
